@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "rotor")(type "KiCad")(uri "${KIPRJMOD}/rotor.kicad_sym")(options "")(descr ""))
+)
